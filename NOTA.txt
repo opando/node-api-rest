@@ -1,0 +1,11 @@
+NOTA
+=====
+ejecutar cada vez q se quiera usar nodejs para refrescar el shell:
+nvm use v0.10.28
+
+{
+"titulo": "ABC",
+"temporada": 10,
+"pais": "EE.UU",
+"genero": "Terror"
+}
